@@ -1,0 +1,8 @@
+opencv-python
+scikit-image
+numpy
+matplotlib
+scikit-learn
+tensorflow==2.15.0
+Pillow
+joblib
